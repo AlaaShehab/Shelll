@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540156464 source:/home/alaa/Desktop/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<errno.h>
+
